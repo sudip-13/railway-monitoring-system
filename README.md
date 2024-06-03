@@ -15,7 +15,5 @@ Our system prioritizes safety by featuring weapon detection, which identifies po
 In an effort to maintain cleanliness, our system can detect garbage on the platform
 
 
-3.Garbage Detection: In an effort to maintain cleanliness, our system can detect garbage on the platform.
-
 
 [![Watch the video](https://vimeo.com/893119312?share=copy)](https://vimeo.com/893119312?share=copy)
